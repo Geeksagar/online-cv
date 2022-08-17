@@ -7,23 +7,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Sagar Pokhrel
+    tagline: Educator, Entrepreneur
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: geeksagar@gmail.com
+    phone: +977 9803082585
+    timezone: Asia/Kathmandu Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
+    website: datasagar.com #do not add http://
     linkedin: alandoe
     xing: alandoe
     github: sharu725
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@NepaliSagar'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
